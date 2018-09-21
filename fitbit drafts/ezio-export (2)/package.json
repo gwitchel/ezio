@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "fa06b397-e276-4fbd-8a06-823435aad8cd",
+    "appType": "app",
+    "appDisplayName": "ezio",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_location",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "ezio"
+      }
+    }
+  }
+}

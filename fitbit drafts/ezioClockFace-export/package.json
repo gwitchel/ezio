@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "ac604cfa-d0af-4b15-b22f-eb32df117ded",
+    "appType": "clockface",
+    "appDisplayName": "ezioClockFace",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "ezioClockFace"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<svg>
+  <svg x="0"   y="40%" width="75" height="75">
+   <image id="one" href="images/empty.png" load="sync" />
+  </svg> 
+  <svg x="25%"   y="40%" width="75" height="75" >
+   <image id="two" href="images/empty.png" load="sync" />
+  </svg>
+  <svg x="50%"   y="40%" width="75" height="75" >
+   <image id="three" href="images/empty.png" load="sync" />
+  </svg>
+  <svg x="75%"   y="40%" width="75" height="75" >
+   <image id="four" href="images/empty.png" load="sync" />
+  </svg> 
+</svg>

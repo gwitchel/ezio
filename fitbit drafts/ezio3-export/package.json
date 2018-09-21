@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "5290ba98-066e-4bd9-9529-a97a8f75cd16",
+    "appType": "app",
+    "appDisplayName": "ezio3",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "ezio3"
+      }
+    }
+  }
+}
